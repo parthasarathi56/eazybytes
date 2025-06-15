@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Contact Info for cards QA microservices"
+  contactDetails:
+    name: "Parthasarathi"
+    email: "vsp.sarathi@gmail.com"
+  contactNumber:
+    - 9535408583
+    - 9488423732
