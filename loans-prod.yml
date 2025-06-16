@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 loans:
-  message: "Contact Info for loans PROD microservices"
+  message: "Contact Info for loans production microservices"
   contactDetails:
     name: "Parthasarathi"
     email: "{cipher}32df31649f2a4a6a7b09f0480771e340bccf51184381fac15975c0bc1b314293c5b2dbf6a465cb47588bcfb3251a9b88"
